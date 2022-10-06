@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Shoba-R
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Project Title
 
-<!---
-Shoba-R/Shoba-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola! Me llamo Shoba y soy desarrolladora frontEnd
+
+## 🚀 About Me
+I'm a frontEnd developer.
+I have a solid
+experience managing people,
+always keeping my team ́s
+happiness as top priority and
+this gave me great results.
+Now I am looking for a new
+challenge in a different
+direction that can help me
+acquire more technical
+experience while I complete
+the last part of my developer
+studies.
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Mis pasatiempos
+ Pinto cuadros al oleo
+ Escucho Hard Rock, metal, powermetal, Etc
+ Soy Hare Krishna
+ Vegetariana
