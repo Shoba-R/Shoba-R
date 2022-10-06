@@ -23,7 +23,7 @@ Javascript, HTML, CSS...
 
 
 ## Mis pasatiempos
- Pinto cuadros al oleo
- Escucho Hard Rock, metal, powermetal, Etc
- Soy Hare Krishna
+ Pinto cuadros al oleo,
+ Escucho Hard Rock, metal, powermetal, Etc. 
+ Soy Hare Krishna y
  Vegetariana
