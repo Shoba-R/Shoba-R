@@ -1,5 +1,5 @@
+![tumblr_inline_nuq7gausVI1ty84t8_500](https://user-images.githubusercontent.com/114411879/205463658-b922b335-2b0b-461a-8d4f-97ba42772708.gif)
 
-![Krishna](https://user-images.githubusercontent.com/114411879/205463616-05ba7ed2-2983-4ebe-a8b6-01b604efafe3.jpg)
 
 # Hi!! I´m Shoba, a frontEnd developer.
 
