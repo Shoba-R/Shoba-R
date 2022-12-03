@@ -1,3 +1,5 @@
+![gif-ojos](/https://github.com/Shoba-R/IMAGENES/blob/main/tumblr_inline_nuq7gausVI1ty84t8_500.gif)
+
 # Hi!! I´m Shoba, a frontEnd developer.
 
 ## 🚀 About Me
