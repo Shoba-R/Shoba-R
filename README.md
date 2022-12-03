@@ -1,6 +1,4 @@
-# Who I'm I?
-
-Hi!! I´m Shoba, a frontEnd developer.
+# Hi!! I´m Shoba, a frontEnd developer.
 
 ## 🚀 About Me
 I have a solid
