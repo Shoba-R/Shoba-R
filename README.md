@@ -1,4 +1,5 @@
-![gif-ojos](/https://github.com/Shoba-R/IMAGENES/blob/main/tumblr_inline_nuq7gausVI1ty84t8_500.gif)
+
+![Krishna](https://user-images.githubusercontent.com/114411879/205463616-05ba7ed2-2983-4ebe-a8b6-01b604efafe3.jpg)
 
 # Hi!! I´m Shoba, a frontEnd developer.
 
