@@ -1,9 +1,8 @@
 # Who I'm I?
 
-Hola! Me llamo Shoba y soy desarrolladora frontEnd
+Hi!! I´m Shoba, a frontEnd developer.
 
 ## 🚀 About Me
-I'm a frontEnd developer.
 I have a solid
 experience managing people,
 always keeping my team ́s
@@ -19,7 +18,7 @@ studies.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS
 
 
 ## Mis pasatiempos
