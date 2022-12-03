@@ -1,4 +1,5 @@
-![tumblr_inline_nuq7gausVI1ty84t8_500](https://user-images.githubusercontent.com/114411879/205463658-b922b335-2b0b-461a-8d4f-97ba42772708.gif)
+![unnamed](https://user-images.githubusercontent.com/114411879/205464724-66d738fd-a7ac-4619-97a1-a9b67aca7a1a.jpg)
+
 
 
 # Hi!! I´m Shoba, a frontEnd developer.
