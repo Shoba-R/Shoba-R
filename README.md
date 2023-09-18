@@ -9,7 +9,7 @@ challenge to continue developing
 my technical skills. 
 
 ## 🛠 Skills
-Javascript, HTML, CSS
+Javascript, HTML, CSS, Php
 
 ## Mis pasatiempos
  Pinto cuadros al oleo,
