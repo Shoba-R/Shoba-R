@@ -11,7 +11,7 @@ my technical skills.
 ## 🛠 Skills
 Javascript, HTML, CSS, Php
 
-## Mis pasatiempos
+## Pasatiempos
  Pinto cuadros al oleo,
  Escucho Hard Rock, metal, powermetal, Etc. 
  Soy Hare Krishna y
